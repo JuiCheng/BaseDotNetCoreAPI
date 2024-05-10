@@ -216,3 +216,12 @@ c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\obj\Debug\net8.0\refint\MyApi.
 c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\obj\Debug\net8.0\MyApi.pdb
 c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
 c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\obj\Debug\net8.0\ref\MyApi.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\5ifti\Documents\專案\BaseDotNetCoreAPI\obj\Debug\net8.0\MyApi.sourcelink.json

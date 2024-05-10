@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.JsonPatch;
+using Microsoft.AspNetCore.Authorization;
 
 // 定義用於 API 回應的通用模型
 public class ApiResponse<T>
@@ -11,6 +12,7 @@ public class ApiResponse<T>
 }
 
 // 泛型基礎控制器，封裝了常見的 CRUD 操作
+[Authorize]
 public class BaseController<TEntity, TContext> : ControllerBase, IBaseController<TEntity>
     where TEntity : class
     where TContext : DbContext
